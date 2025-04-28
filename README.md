@@ -32,7 +32,7 @@
 |:---|:---|
 | `Husky_bilps_ver2` | 스크립트 폴더명,서버이름(허스키서버) |
 | `server.lua` | 서버 스크립트 |
-| `client`| 클라이언트 스크립트 |
+| `client.lua`| 클라이언트 스크립트 |
 | `fxmanifest` | 리소스 파일 |
 
 ---
