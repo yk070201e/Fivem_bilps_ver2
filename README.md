@@ -13,6 +13,11 @@
 > Please change the script name before using it. The Husky server has currently been renamed to the Cheese server. However, please do not use the name 'Husky server'.
 
 ---
+
+## 📷이미지 미리보기
+![Image](https://github.com/user-attachments/assets/2e3c2126-2f44-429c-9778-39068c4b4fdb)
+
+---
 ## ✨ 소개ㅣIntroduction
 > 이 프로젝트는 `/togglearmor` 명령어를 통해 플레이어의 빌립스 (체력 바, 방탄복, 닉네임) 표시를 켜고 끄는 기능을 제공합니다. 서버 환경에서 플레이어들이 서로의 상태를 볼지 말지를 자유롭게 설정할 수 있도록 하여 게임 플레이에 새로운 경험을 더할 수 있습니다.
 
