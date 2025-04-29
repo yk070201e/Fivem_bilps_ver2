@@ -5,10 +5,12 @@
 ## 🖥️ 파이브엠 빌립스 v2 버전 | FIVEM Blips ver2
 
 > 이 스크립트는 시바서버를 참고하여 제작 하였습니다.<br>
+> 이 스크립트 기반은 vRP으로 설정되어있습니다. <br>
 > 누구나 자유롭게 수정하고 활용하실 수 있습니다 😊<br>
 > 스크립트 이름은 변경후 사용해주세요, 허스키서버는 현재 치즈서버로 변경 되었습니다 하지만, 허스키 서버는 사용하지말아주세요.
   
 > This script was created with reference to the Shiba server. <br>
+> This script is developed based on the vRP framework.
 > Anyone is free to modify and use it! 😊 <br>
 > Please change the script name before using it. The Husky server has currently been renamed to the Cheese server. However, please do not use the name 'Husky server'.
 
